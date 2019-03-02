@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageLicenseUrl>https://spdx.org/licenses/MIT.html</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/JohnnyPP/WebhookNuGet</PackageProjectUrl>
+    <Authors>ChrisKolan</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Sends request to the IFTTT triggering the event connected with webhook</Description>
   </PropertyGroup>
 
 </Project>
